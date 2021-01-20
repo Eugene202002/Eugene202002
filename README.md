@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+## second line
+# third line
+* life is good
+* life is great
 <!--
 **Eugene202002/Eugene202002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
